@@ -1,0 +1,19 @@
+{
+  "name": "employee_attendance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumol/employee_attendance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumol/employee_attendance/issues"
+  },
+  "homepage": "https://github.com/kumol/employee_attendance#readme"
+}
